@@ -1,5 +1,6 @@
 # CompassLink
 CompassLink is an app idea created for the HopperHacks hackathon in Feb. 2024.
+You can find the link to the original Devpost [here]([url](https://devpost.com/software/compasslink-uniting-families-with-unhoused-loved-ones#updates)).
 
 CompassLink transforms concern into peace of mind, linking families with unhoused loved ones via a PIN system for location updates and meal coupons. A $10/mo beacon of hope for connection and support.
 
